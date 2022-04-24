@@ -15,9 +15,9 @@ const Portfolio = () => {
                     />
                 </div>
                 <div className='absolute bottom-2 w-full md:bottom-5 lg:bottom-10 xl:bottom-20'>
-                    <article className='bg-gray-600 w-4/5 mx-auto opacity-95 py-2 px-1 rounded-lg md:hover:scale-105 transition-all ease-in-out md:w-3/4 md:px-3 lg:w-3/5 lg:px-7 lg:py-3'>
-                        <h2 className='animate-pulse uppercase text-center font-semibold text-white md:text-lg lg:text-xl'>Portfolio</h2>
-                        <p className='text-xs text-white text-center sm:text-sm md:text-base'>Showcasing some of our Works !!</p>
+                    <article className='bg-gray-600 w-3/5 mx-auto opacity-95 py-2 px-1 rounded-lg md:hover:scale-105 transition-all ease-in-out md:w-1/2 md:px-3 lg:px-7 lg:py-3'>
+                        <h2 className='animate-pulse mb-1 uppercase text-center font-semibold text-white md:text-xl lg:text-2xl lg:mb-2 xl:mb-3 xl:text-3xl'>Portfolio</h2>
+                        <p className='text-xs animate-pulse text-white text-center sm:text-sm sm:uppercase md:text-base lg:text-lg xl:text-xl'>Showcasing some of our Works</p>
                     </article>
                 </div>
             </section>
