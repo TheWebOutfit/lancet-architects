@@ -7,6 +7,8 @@ export default function Home() {
       <Head>
         <title>Lancet Architects</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta name="description" content="Lancet Architects aspires to establish a new milestone in the world of architecture by drafting instances in an exceptional approach." />
+        <meta name="keywords" content="architect, best architects, architects in lucknow, home design, home designer, modular kitchen" />
       </Head>
       <main className='bg-gradient-to-tr from-[#AD8B73] to-[#E3CAA5]'>
         <section className='relative'>
