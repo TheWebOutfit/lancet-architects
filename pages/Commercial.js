@@ -20,7 +20,7 @@ const commercial = () => {
                 </div>
             </section>
             <section className='py-4 md:py-8 lg:py-10'>
-                <div className='w-5/6 mx-auto py-5 rounded-lg bg-[#faf2f2] space-y-3 shadow-xl sm:py-8 sm:space-y-5 md:rounded-xl lg:flex lg:space-y-0 lg:flex-wrap'>
+                <div className='w-5/6 mx-auto py-5 rounded-lg bg-[#D6E0F0] space-y-3 shadow-xl sm:py-8 sm:space-y-5 md:rounded-xl lg:flex lg:space-y-0 lg:flex-wrap'>
                     <div className='w-5/6 mx-auto lg:p-5 lg:w-2/5'>
                         <div className='p-1 border-4 border-black shadow-xl md:p-3 lg:grayscale lg:hover:grayscale-0 lg:hover:scale-105 transition-all ease-in-out'>
                             <Image

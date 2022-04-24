@@ -38,7 +38,7 @@ const Portfolio = () => {
                         <p className="text-sm text-black sm:text-base lg:text-lg lg:text-left">
                             Your ideas are our priorities. Trust Lancet with every corner of your nest to weave the most unique set of dreams into existence!
                         </p>
-                        <Link href="/residential" passHref>
+                        <Link href="/Residential" passHref>
                             <a>
                                 <div className="pt-8" >
                                     <button className="animate-pulse p-2 border-2 border-black">View More</button>
@@ -65,7 +65,7 @@ const Portfolio = () => {
                         <p className="text-sm text-black sm:text-base lg:text-lg lg:text-left">
                             The architectures and engineers of the Lancet impart the point ornamentation to industrial designing.
                         </p>
-                        <Link href="/institutional" passHref>
+                        <Link href="/Institutional" passHref>
                             <a>
                                 <div className="pt-8" >
                                     <button className="animate-pulse p-2 border-2 border-black">View More</button>
@@ -92,7 +92,7 @@ const Portfolio = () => {
                         <p className="text-sm text-black sm:text-base lg:text-lg lg:text-left">
                             We understand the influence of designs on the audience. Hence, we illustrate the most alluring craftwork to heighten your commerce!
                         </p>
-                        <Link href="/commercial" passHref>
+                        <Link href="/Commercial" passHref>
                             <a>
                                 <div className="pt-8" >
                                     <button className="animate-pulse p-2 border-2 border-black">View More</button>
