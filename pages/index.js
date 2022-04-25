@@ -30,10 +30,10 @@ export default function Home() {
           </div>
         </section>
         <section className=' py-5 md:py-12'>
-          <div className='bg-gradient-to-r to-[#c0a389] from-[#f0d6a9] rounded-lg w-3/4 mx-auto py-5 md:flex lg:hover:scale-105 transition-all ease-in-out lg:rounded-2xl lg:py-0'>
+          <div className='bg-gradient-to-r to-[#c0a389] from-[#f0d6a9] rounded-lg w-4/5 mx-auto py-5 md:flex lg:hover:scale-105 transition-all ease-in-out lg:rounded-2xl lg:py-0'>
             <div className='md:w-3/5 md:my-auto lg:w-7/12'>
               <h2 className='text-center uppercase font-semibold mb-3 sm:text-xl sm:font-bold md:text-left md:px-10 lg:text-2xl xl:text-3xl'>Thriving creativity</h2>
-              <p className='text-center text-sm px-3 sm:px-10 md:text-left lg:text-base lg:pr-14 xl:text-lg'>We understand the gravity that artistry implants! Lancet Architects focuses on flourishing creativity to its fullest. Our shades, patterns, and fashion are the finest palettes you can acquire at the wittiest price!</p>
+              <p className='text-center text-sm px-5 sm:px-10 md:text-left lg:text-base lg:pr-14 xl:text-lg'>We understand the gravity that artistry implants! Lancet Architects focuses on flourishing creativity to its fullest. Our shades, patterns, and fashion are the finest palettes you can acquire at the wittiest price!</p>
             </div>
             <div className='p-5 mx-auto sm:w-96 md:w-2/5 lg:w-5/12'>
               <Image
@@ -46,10 +46,10 @@ export default function Home() {
           </div>
         </section>
         <section className='  py-5 md:py-12'>
-          <div className='bg-gradient-to-r from-[#c0a389] to-[#f0d6a9] rounded-lg w-3/4 mx-auto py-5 md:flex md:flex-row-reverse lg:hover:scale-105 transition-all ease-in-out lg:rounded-2xl lg:py-0'>
+          <div className='bg-gradient-to-r from-[#c0a389] to-[#f0d6a9] rounded-lg w-4/5 mx-auto py-5 md:flex md:flex-row-reverse lg:hover:scale-105 transition-all ease-in-out lg:rounded-2xl lg:py-0'>
             <div className='md:w-3/5 md:my-auto lg:w-7/12'>
               <h2 className='text-center text-black uppercase font-semibold mb-3 sm:text-xl sm:font-bold md:text-right md:px-10 lg:text-2xl xl:text-3xl'>Crafting Dreams</h2>
-              <p className='text-center text-black text-sm px-3 sm:px-10 md:text-right lg:text-base lg:pl-14 xl:text-lg'>You are unique, so are your dreams! They deserve to solidify! We know you endeavor to shape your vision. Lancet does sterling designing to convert your picture into reality! Let us carve your imagination into the perfect existence.</p>
+              <p className='text-center text-black text-sm px-5 sm:px-10 md:text-right lg:text-base lg:pl-14 xl:text-lg'>You are unique, so are your dreams! They deserve to solidify! We know you endeavor to shape your vision. Lancet does sterling designing to convert your picture into reality! Let us carve your imagination into the perfect existence.</p>
             </div>
             <div className='p-5 mx-auto sm:w-96 md:w-2/5 lg:w-5/12'>
               <Image

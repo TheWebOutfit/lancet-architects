@@ -20,9 +20,9 @@ const residential = () => {
                 </div>
             </section>
             <section className='py-4 md:py-8 lg:py-10'>
-                <div className='w-5/6 mx-auto py-5 rounded-lg bg-[#D6E0F0] space-y-3 shadow-xl sm:py-8 sm:space-y-5 md:rounded-xl lg:flex lg:space-y-0 lg:flex-wrap'>
+                <div className='w-5/6 mx-auto py-5 rounded-lg bg-[#D6E0F0] space-y-5 shadow-xl sm:py-8 sm:space-y-5 md:rounded-xl lg:flex lg:space-y-0 lg:flex-wrap'>
                     <div className='w-5/6 mx-auto lg:p-5 lg:w-2/5'>
-                        <div className='p-1 border-4 border-black shadow-xl md:p-3 lg:grayscale lg:hover:grayscale-0 lg:hover:scale-105 transition-all ease-in-out'>
+                        <div className='p-1 border-4 border-black shadow-xl md:p-3 hover:scale-105 transition-all ease-in-out'>
                             <Image
                                 src="/media/Residential_2.webp"
                                 width="1920"
@@ -32,7 +32,7 @@ const residential = () => {
                         </div>
                     </div>
                     <div className='w-5/6 mx-auto lg:p-5 lg:w-2/5'>
-                        <div className='p-1 border-4 border-black shadow-xl md:p-3 lg:grayscale lg:hover:grayscale-0 lg:hover:scale-105 transition-all ease-in-out'>
+                        <div className='p-1 border-4 border-black shadow-xl md:p-3 hover:scale-105 transition-all ease-in-out'>
                             <Image
                                 src="/media/Residential_3.webp"
                                 width="1920"
@@ -42,7 +42,7 @@ const residential = () => {
                         </div>
                     </div>
                     <div className='w-5/6 mx-auto lg:p-5 lg:w-2/5'>
-                        <div className='p-1 border-4 border-black shadow-xl md:p-3 lg:grayscale lg:hover:grayscale-0 lg:hover:scale-105 transition-all ease-in-out'>
+                        <div className='p-1 border-4 border-black shadow-xl md:p-3 hover:scale-105 transition-all ease-in-out'>
                             <Image
                                 src="/media/Residential_4.webp"
                                 width="1920"
@@ -52,7 +52,7 @@ const residential = () => {
                         </div>
                     </div>
                     <div className='w-5/6 mx-auto lg:p-5 lg:w-2/5'>
-                        <div className='p-1 border-4 border-black shadow-xl md:p-3 lg:grayscale lg:hover:grayscale-0 lg:hover:scale-105 transition-all ease-in-out'>
+                        <div className='p-1 border-4 border-black shadow-xl md:p-3 hover:scale-105 transition-all ease-in-out'>
                             <Image
                                 src="/media/Residential_5.webp"
                                 width="1920"
@@ -62,7 +62,7 @@ const residential = () => {
                         </div>
                     </div>
                     <div className='w-5/6 mx-auto lg:p-5 lg:w-2/5'>
-                        <div className='p-1 border-4 border-black shadow-xl md:p-3 lg:grayscale lg:hover:grayscale-0 lg:hover:scale-105 transition-all ease-in-out'>
+                        <div className='p-1 border-4 border-black shadow-xl md:p-3 hover:scale-105 transition-all ease-in-out'>
                             <Image
                                 src="/media/Residential_6.webp"
                                 width="1920"
@@ -72,7 +72,7 @@ const residential = () => {
                         </div>
                     </div>
                     <div className='w-5/6 mx-auto lg:p-5 lg:w-2/5'>
-                        <div className='p-1 border-4 border-black shadow-xl md:p-3 lg:grayscale lg:hover:grayscale-0 lg:hover:scale-105 transition-all ease-in-out'>
+                        <div className='p-1 border-4 border-black shadow-xl md:p-3 hover:scale-105 transition-all ease-in-out'>
                             <Image
                                 src="/media/Residential_7.webp"
                                 width="1920"
@@ -82,7 +82,7 @@ const residential = () => {
                         </div>
                     </div>
                     <div className='w-5/6 mx-auto lg:p-5 lg:w-2/5'>
-                        <div className='p-1 border-4 border-black shadow-xl md:p-3 lg:grayscale lg:hover:grayscale-0 lg:hover:scale-105 transition-all ease-in-out'>
+                        <div className='p-1 border-4 border-black shadow-xl md:p-3 hover:scale-105 transition-all ease-in-out'>
                             <Image
                                 src="/media/Residential_8.webp"
                                 width="1920"
@@ -92,7 +92,7 @@ const residential = () => {
                         </div>
                     </div>
                     <div className='w-5/6 mx-auto lg:p-5 lg:w-2/5'>
-                        <div className='p-1 border-4 border-black shadow-xl md:p-3 lg:grayscale lg:hover:grayscale-0 lg:hover:scale-105 transition-all ease-in-out'>
+                        <div className='p-1 border-4 border-black shadow-xl md:p-3 hover:scale-105 transition-all ease-in-out'>
                             <Image
                                 src="/media/Residential_9.webp"
                                 width="1920"

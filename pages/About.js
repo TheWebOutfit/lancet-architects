@@ -36,7 +36,7 @@ export const about = () => {
                         />
                     </div>
                     <div className="px-3 md:w-3/5 md:p-3 lg:px-8 lg:my-auto">
-                        <p className="text-center text-white pb-3 lg:text-left lg:text-lg">
+                        <p className="text-center text-sm text-white pb-3 md:text-base lg:text-left lg:text-lg">
                             To establish a new milestone in the world of architecture by an exemplary usage of the given resources to emphasis that design is not always bought on the cost of nature....thus lancet was established in 2014 by two architects Ar. Kartikey Verma and Ar. Sneha Pradhan... Currently, a team of 18 people is there comprising of architects, interior designers, engineers, visualizers etc
                         </p>
                         <p className="text-center text-sm text-sky-500 font-medium lg:text-base">Sneha Pradhan and Kartikey Verma</p>

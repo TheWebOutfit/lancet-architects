@@ -79,7 +79,7 @@ const Interiors = () => {
                 <div className='space-y-3 mb-5 md:flex md:flex-wrap md:space-y-0 justify-around'>
                     <div className='w-3/4 mx-auto md:pb-7 md:w-2/5'>
                         <div className='p-3'>
-                            <div className='self-center hover:scale-105 lg:grayscale lg:hover:grayscale-0 transition-all ease-in-out shadow-xl'>
+                            <div className='self-center hover:scale-105 transition-all ease-in-out shadow-xl'>
                                 <Image
                                     src="/media/interiors_1.webp"
                                     height="720"
@@ -91,7 +91,7 @@ const Interiors = () => {
                     </div>
                     <div className='w-3/4 mx-auto md:pb-7 md:w-2/5'>
                         <div className='p-3'>
-                            <div className='self-center hover:scale-105 lg:grayscale lg:hover:grayscale-0 transition-all ease-in-out shadow-xl'>
+                            <div className='self-center hover:scale-105 transition-all ease-in-out shadow-xl'>
                                 <Image
                                     src="/media/interiors_2.webp"
                                     height="720"
@@ -103,7 +103,7 @@ const Interiors = () => {
                     </div>
                     <div className='w-3/4 mx-auto md:pb-7 md:w-2/5'>
                         <div className='p-3'>
-                            <div className='self-center hover:scale-105 shadow-xl lg:grayscale lg:hover:grayscale-0 transition-all ease-in-out'>
+                            <div className='self-center hover:scale-105 shadow-xl transition-all ease-in-out'>
                                 <Image
                                     src="/media/interiors_3.webp"
                                     height="720"
@@ -115,7 +115,7 @@ const Interiors = () => {
                     </div>
                     <div className='w-3/4 mx-auto md:pb-7 md:w-2/5'>
                         <div className='p-3'>
-                            <div className='self-center hover:scale-105 shadow-xl lg:grayscale lg:hover:grayscale-0 transition-all ease-in-out'>
+                            <div className='self-center hover:scale-105 shadow-xl transition-all ease-in-out'>
                                 <Image
                                     src="/media/interiors_4.webp"
                                     height="720"
@@ -127,7 +127,7 @@ const Interiors = () => {
                     </div>
                     <div className='w-3/4 mx-auto md:pb-7 md:w-2/5'>
                         <div className='p-3'>
-                            <div className='self-center hover:scale-105 shadow-xl lg:grayscale lg:hover:grayscale-0 transition-all ease-in-out'>
+                            <div className='self-center hover:scale-105 shadow-xl transition-all ease-in-out'>
                                 <Image
                                     src="/media/interiors_5.webp"
                                     height="720"
@@ -139,7 +139,7 @@ const Interiors = () => {
                     </div>
                     <div className='w-3/4 mx-auto md:pb-7 md:w-2/5'>
                         <div className='p-3'>
-                            <div className='self-center hover:scale-105 shadow-xl lg:grayscale lg:hover:grayscale-0 transition-all ease-in-out'>
+                            <div className='self-center hover:scale-105 shadow-xl transition-all ease-in-out'>
                                 <Image
                                     src="/media/interiors_6.webp"
                                     height="720"
@@ -151,7 +151,7 @@ const Interiors = () => {
                     </div>
                     <div className='w-3/4 mx-auto md:pb-7 md:w-2/5'>
                         <div className='p-3'>
-                            <div className='self-center hover:scale-105 shadow-xl lg:grayscale lg:hover:grayscale-0 transition-all ease-in-out'>
+                            <div className='self-center hover:scale-105 shadow-xl transition-all ease-in-out'>
                                 <Image
                                     src="/media/interiors_7.webp"
                                     height="720"
@@ -163,7 +163,7 @@ const Interiors = () => {
                     </div>
                     <div className='w-3/4 mx-auto md:pb-7 md:w-2/5'>
                         <div className='p-3'>
-                            <div className='self-center hover:scale-105 shadow-xl lg:grayscale lg:hover:grayscale-0 transition-all ease-in-out'>
+                            <div className='self-center hover:scale-105 shadow-xl transition-all ease-in-out'>
                                 <Image
                                     src="/media/interiors_8.webp"
                                     height="720"
@@ -175,7 +175,7 @@ const Interiors = () => {
                     </div>
                     <div className='w-3/4 mx-auto md:pb-7 md:w-2/5'>
                         <div className='p-3'>
-                            <div className='self-center hover:scale-105 shadow-xl lg:grayscale lg:hover:grayscale-0 transition-all ease-in-out'>
+                            <div className='self-center hover:scale-105 shadow-xl transition-all ease-in-out'>
                                 <Image
                                     src="/media/interiors_9.webp"
                                     height="720"
@@ -187,7 +187,7 @@ const Interiors = () => {
                     </div>
                     <div className='w-3/4 mx-auto md:pb-7 md:w-2/5'>
                         <div className='p-3'>
-                            <div className='self-center hover:scale-105 shadow-xl lg:grayscale lg:hover:grayscale-0 transition-all ease-in-out'>
+                            <div className='self-center hover:scale-105 shadow-xl transition-all ease-in-out'>
                                 <Image
                                     src="/media/interiors_10.webp"
                                     height="720"
@@ -199,7 +199,7 @@ const Interiors = () => {
                     </div>
                     <div className='w-3/4 mx-auto md:pb-7 md:w-2/5'>
                         <div className='p-3'>
-                            <div className='self-center hover:scale-105 shadow-xl lg:grayscale lg:hover:grayscale-0 transition-all ease-in-out'>
+                            <div className='self-center hover:scale-105 shadow-xl transition-all ease-in-out'>
                                 <Image
                                     src="/media/interiors_11.webp"
                                     height="720"
@@ -211,7 +211,7 @@ const Interiors = () => {
                     </div>
                     <div className='w-3/4 mx-auto md:pb-7 md:w-2/5'>
                         <div className='p-3'>
-                            <div className='self-center hover:scale-105 shadow-xl lg:grayscale lg:hover:grayscale-0 transition-all ease-in-out'>
+                            <div className='self-center hover:scale-105 shadow-xl transition-all ease-in-out'>
                                 <Image
                                     src="/media/interiors_12.webp"
                                     height="720"
