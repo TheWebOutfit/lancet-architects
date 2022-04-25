@@ -8,7 +8,7 @@ export default function Home() {
         <title>Lancet Architects</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta name="description" content="Lancet Architects aspires to establish a new milestone in the world of architecture by drafting instances in an exceptional approach." />
-        <meta name="keywords" content="architect, best architects, architects in lucknow, home design, home designer, modular kitchen" />
+        <meta name="keywords" content="architect, best architects,lancet architects lucknow, architects in lucknow, home design, home designer, modular kitchen" />
       </Head>
       <main className='bg-gradient-to-tr from-[#AD8B73] to-[#E3CAA5]'>
         <section className='relative'>
@@ -72,7 +72,7 @@ export default function Home() {
           </section>
           <section className='p-3 space-y-5 md:flex md:space-y-0 md:justify-center md:py-5 lg:py-8 lg:px-10 xl:px-20'>
             <div className='w-3/5 mx-auto sm:w-1/3 md:w-52 lg:w-56 xl:w-64'>
-              <section className='bg-[#bf8d60] rounded-xl  p-3 shadow-lg hover:scale-105 transition-all ease-in-out '>
+              <section className='bg-[#dba779] rounded-xl  p-3 shadow-xl hover:scale-105 transition-all ease-in-out '>
                 <div>
                   <div className='motion-safe:animate-bounce w-8 mx-auto xl:w-10'>
                     <Image
@@ -92,7 +92,7 @@ export default function Home() {
               </section>
             </div>
             <div className='w-3/5 mx-auto sm:w-1/3 md:w-52 lg:w-56 xl:w-64'>
-              <section className='bg-[#bf8d60] rounded-xl  p-3 shadow-lg hover:scale-105 transition-all ease-in-out '>
+              <section className='bg-[#dba779] rounded-xl  p-3 shadow-xl hover:scale-105 transition-all ease-in-out '>
                 <div>
                   <div className='motion-safe:animate-bounce w-8 mx-auto xl:w-10'>
                     <Image
@@ -112,7 +112,7 @@ export default function Home() {
               </section>
             </div>
             <div className='w-3/5 mx-auto sm:w-1/3 md:w-52 lg:w-56 xl:w-64'>
-              <section className='bg-[#bf8d60] rounded-xl  p-3 shadow-lg hover:scale-105 transition-all ease-in-out'>
+              <section className='bg-[#dba779] rounded-xl  p-3 shadow-xl hover:scale-105 transition-all ease-in-out'>
                 <div>
                   <div className='motion-safe:animate-bounce w-8 mx-auto xl:w-10'>
                     <Image
