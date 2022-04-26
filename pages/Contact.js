@@ -67,7 +67,7 @@ const contact = () => {
                         </div>
                         <div className='p-1 mb-1 md:mb-2'>
                         <label htmlFor="address" className='block mb-1 font-medium uppercase md:mb-2'>Address:</label>
-                        <textarea name="address" id="address" cols="35" rows="5" placeholder='Enter Address' className='p-1 rounded-md bg-slate-100 lg:rounded-xl lg:p-2'></textarea>
+                        <textarea name="address" id="address" cols="30" rows="5" placeholder='Enter Address' className='p-1 rounded-md bg-slate-100 lg:rounded-xl lg:p-2'></textarea>
                         </div>
                         <button type='submit' className='py-2 px-3 bg-blue-700 text-white rounded-md font-medium hover:scale-105 transition-all ease-in-out'>Send</button>
                     </form>
