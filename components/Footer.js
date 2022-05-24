@@ -32,20 +32,24 @@ const Footer = () => {
                     <p className="text-center">Phone: +91 7275712348</p>
                     <div className="flex justify-center mt-3">
                         <div className="mr-1">
-                            <Image
-                                src="/media/insta_icon-removebg-preview.png"
-                                width="30"
-                                height="20"
-                                alt="Landing page display image"
-                            />
+                            <a href="https://www.instagram.com/lancet_architects/" target="_blank">
+                                <Image
+                                    src="/media/insta_icon-removebg-preview.png"
+                                    width="30"
+                                    height="20"
+                                    alt="Landing page display image"
+                                />
+                            </a>
                         </div>
                         <div>
-                            <Image
-                                src="/media/59439-removebg-preview.png"
-                                width="30"
-                                height="20"
-                                alt="Landing page display image"
-                            />
+                            <a href="https://www.facebook.com/LANCETARCHITECTS" target="_blank">
+                                <Image
+                                    src="/media/59439-removebg-preview.png"
+                                    width="30"
+                                    height="20"
+                                    alt="Landing page display image"
+                                />
+                            </a>
                         </div>
                     </div>
                 </div>
