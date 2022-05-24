@@ -32,7 +32,7 @@ const Footer = () => {
                     <p className="text-center">Phone: +91 7275712348</p>
                     <div className="flex justify-center mt-3">
                         <div className="mr-1">
-                            <a href="https://www.instagram.com/lancet_architects/" target="_blank">
+                            <a href="https://www.instagram.com/lancet_architects/" target="_blank" rel="noopener noreferrer">
                                 <Image
                                     src="/media/insta_icon-removebg-preview.png"
                                     width="30"
@@ -42,7 +42,7 @@ const Footer = () => {
                             </a>
                         </div>
                         <div>
-                            <a href="https://www.facebook.com/LANCETARCHITECTS" target="_blank">
+                            <a href="https://www.facebook.com/LANCETARCHITECTS" target="_blank" rel="noopener noreferrer">
                                 <Image
                                     src="/media/59439-removebg-preview.png"
                                     width="30"
